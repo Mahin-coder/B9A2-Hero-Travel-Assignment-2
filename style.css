@@ -79,6 +79,7 @@ body {
     background-position: center;
     background-size: cover;
     border-radius: 24px;
+    margin-bottom: 100px;
 }
 
 .hero_section_elements {
@@ -130,6 +131,38 @@ body {
 }
 
 /*hero-section ends*/
+/*popular tour section starts*/
+
+.tour_info {
+    display: flex;
+}
+
+.popular_tour_section {}
+
+.tour_main_title {
+    margin-bottom: 24px;
+}
+
+.primary_title {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.tour_description {
+    color: rgba(19, 19, 24, 0.7);
+    margin-bottom: 32px;
+}
+
+.tour_desc {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.tour_button {}
+
+.read_more_btn {}
+
+.tour_image {}
 
 @media(max-width: 600px) {
     .container {
